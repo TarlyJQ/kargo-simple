@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/TarlyJQ/guestbook
+      repoURL: ghcr.io/tarlyjq/guestbook
       imageSelectionStrategy: SemVer
